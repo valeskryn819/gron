@@ -1,0 +1,7 @@
+{
+  "source": "https://github.com/tomnomnom/gron",
+  "commit": "88a6234ea2d0c487090988182ad9a7cdf6def924",
+  "license": "MIT",
+  "snapshot": "bounded source subset; workflows excluded",
+  "purpose": "Independent encrypted storage; not an upstream release or endorsement"
+}
